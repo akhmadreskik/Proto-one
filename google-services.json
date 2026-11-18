@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867518935623",
+    "project_id": "gen-lang-client-0323862747",
+    "storage_bucket": "gen-lang-client-0323862747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867518935623:android:a75bcf2a56f289eaf7b762",
+        "android_client_info": {
+          "package_name": "com.aistudio.gradeportal.kxmpzq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDf6geYT5alEWGQQONJnbfaLvD13hr38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
