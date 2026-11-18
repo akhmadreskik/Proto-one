@@ -1,0 +1,6 @@
+{
+  "name": "Grade Portal",
+  "description": "Enterprise Academic Grade Portal for managing student grades, KKM thresholds, weighted analytics, CSV export, and printable report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
